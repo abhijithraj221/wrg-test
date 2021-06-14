@@ -195,10 +195,6 @@ nav {
 
 /* section 2 */
 
-.section2 {
-	/* height: 100vh; */
-	/* background-color: slateblue; */
-}
 .section-heading {
 	display: flex;
 	height: 200px;
@@ -479,16 +475,4 @@ footer {
 	font-weight: 100;
 	font-size: 12px;
 	line-height: 2;
-}
-
-@media only screen and (max-width: 600px) {
-	.section1-banner {
-		height: 100%;
-	}
-	.banner-content {
-		width: 100%;
-		align-items: center;
-		justify-content: center;
-		display: grid;
-	}
 }
